@@ -1,1 +1,1 @@
-# [Download](w3/Wemod_Unlocker.zip)
+# [Download](Releases/Wemod_Unlocker.zip)
