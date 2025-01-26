@@ -8,3 +8,10 @@
 5. Wait for installation (usually about 30-50 seconds)
 6. Click “Finish”
 7. Follow the on-screen instructions to install the cracked program
+
+
+# License
+licensed by [Apache License](/LICENSE)
+
+# Contributing
+[Contributing.md](/CONTRIBUTING.md)
